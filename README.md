@@ -34,6 +34,11 @@ to a poor document embedding architecture, limited by the hardware of a Home PC.
 The code and the virtual environment are set up to automatically to exploit CUDA whenever it is possible thanks to the
 tensorflow-gpu toolchain.
 
+Custom developed architecture:
+
+![neural_model](https://user-images.githubusercontent.com/38500291/203978597-b0d927f8-7d1d-47c9-8895-dafa2dc8f19f.PNG width="60")
+
+
 ## Prerequisites
 The following python packages have to be installed on the machine in order to run our 
 implementation of the models:
