@@ -36,7 +36,7 @@ tensorflow-gpu toolchain.
 
 Custom developed architecture:
 
-![neural_model](https://user-images.githubusercontent.com/38500291/203978597-b0d927f8-7d1d-47c9-8895-dafa2dc8f19f.PNG width="60")
+<img src="https://user-images.githubusercontent.com/38500291/203978597-b0d927f8-7d1d-47c9-8895-dafa2dc8f19f.PNG" width="700" height="800">
 
 
 ## Prerequisites
